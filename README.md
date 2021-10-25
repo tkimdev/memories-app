@@ -23,7 +23,7 @@ Server Side:
 + Heroku 
 
 Learned: 
-+ MERN stack application development process 
++ MERN stack application development process
 + CRUD implementation 
 + Scalable Project file structure 
 + Heroku Deployment  
