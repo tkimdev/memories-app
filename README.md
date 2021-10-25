@@ -2,10 +2,10 @@
 
 A Full MERN stack social media application that allows users to post and cherish events that happened in your life... keeping your memories lasting forever. 
 
-### [Live Site](https://memories-app-tk.netlify.app/)
+## [Live Site](https://memories-app-tk.netlify.app/)
 
-### Technologies Used: 
-## Client Side: 
+## Technologies Used: 
+### Client Side: 
 + React.js 
 + Material UI 
 + Axios 
@@ -14,7 +14,7 @@ A Full MERN stack social media application that allows users to post and cherish
 + Redux
 + Redux-Thunk
 
-## Server Side: 
+### Server Side: 
 + Express
 + Mongoose 
 + Body-Parser 
