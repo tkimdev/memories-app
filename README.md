@@ -16,18 +16,18 @@ Client Side:
 
 Server Side: 
 + Express
++ Mongo DB Atlas 
 + Mongoose 
 + Body-Parser 
 + Cors 
 + Heroku 
 
 Learned: 
-+ Full Stack Development Experience 
-+ Restful API 
-+ User Login & Registration
-+ Authentication 
-+ Hashing Passwords Securely
-+ Deployment  
++ MERN stack application development process 
++ CRUD implementation 
++ Scalable REACT file structure 
++ Heroku Deployment  
++ 
 
 ### Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
