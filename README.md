@@ -25,7 +25,7 @@ Server Side:
 Learned: 
 + MERN stack application development process
 + CRUD implementation 
-+ Scalable Project file structure 
++ Scalable Full Stack file structure 
 + Heroku Deployment  
 + Environmental Variables 
 + Gitignore 
