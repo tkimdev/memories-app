@@ -25,9 +25,11 @@ Server Side:
 Learned: 
 + MERN stack application development process 
 + CRUD implementation 
-+ Scalable REACT file structure 
++ Scalable Project file structure 
 + Heroku Deployment  
-+ 
++ Environmental Variables 
++ Gitignore 
++ Heroku Procfile 
 
 ### Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
