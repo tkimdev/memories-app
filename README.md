@@ -35,3 +35,6 @@ Learned:
 ### Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
 
+![memories](https://user-images.githubusercontent.com/68490255/138770147-08faf0e2-9fba-4b10-91f2-e991c0aec863.jpg)
+
+
