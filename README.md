@@ -5,22 +5,20 @@ A Full MERN stack social media application that allows users to post and cherish
 ### [Live Site](https://memories-app-tk.netlify.app/)
 
 ### Technologies Used: 
+## Client Side: 
 + React.js 
-+ Tachyons 
-+ API 
-+ Node.js 
-+ Express 
-+ PostgreSQL
-+ Heroku
++ Material UI 
++ Axios 
++ Moment
++ React-File-Base64 
++ Redux
++ Redux-Thunk
 
-### Dependencies: 
-+ Bcrypt
-+ Postgresql
-+ knex
-+ body parser
-+ cors
-+ express
-+ particles.js
+## Server Side: 
++ Express
++ Mongoose 
++ Body-Parser 
++ Cors 
 
 ### Learned: 
 + Full Stack Development Experience 
