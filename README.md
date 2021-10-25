@@ -16,6 +16,7 @@ Client Side:
 
 Server Side: 
 + Express
++ Node.js 
 + Mongo DB Atlas 
 + Mongoose 
 + Body-Parser 
