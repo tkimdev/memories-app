@@ -4,7 +4,7 @@ A Full MERN stack social media application that allows users to post and cherish
 
 ## [Live Site](https://memories-app-tk.netlify.app/)
 
-### Technologies Used: 
+### Technologies Used
 Client Side: 
 + React.js 
 + Material UI 
