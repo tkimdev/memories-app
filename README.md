@@ -19,6 +19,7 @@ A Full MERN stack social media application that allows users to post and cherish
 + Mongoose 
 + Body-Parser 
 + Cors 
++ Heroku 
 
 ### Learned: 
 + Full Stack Development Experience 
